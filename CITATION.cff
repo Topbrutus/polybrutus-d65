@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the official Zenodo DOI for this scientific preprint after release."
+title: "Polybrutus 65D: Exact 70-Point Euclidean Metric and Fifty-Ninefold Ideal Graph Mode"
+type: software
+authors:
+  - family-names: St-Pierre
+    given-names: Gabriel
+version: "0.1.0"
+date-released: 2026-11-21
+license: MIT
+repository-code: https://github.com/Topbrutus/polybrutus-d65
+abstract: "Exact synthetic 70-point labelled Euclidean squared-distance metric and separately stipulated dimensionless ideal graph."
