@@ -1,0 +1,4 @@
+# SHA256 of original public Zenodo artifacts DOI 10.5281/zenodo.24432568
+bf867c0035922cb4dbea3b29e5c262b272e68ac0f529eb64d395b06e5c6e4030  publication/POLYBRUTUS_65D_NOTE.pdf
+cf71e7db552567b3ff7383ccfcc4f8bb042da354896473d77588a91db36d0cc0  [original frozen Git scientific tag ZIP] POLYBRUTUS_D65_SOURCE_v0.1.0_GITHUB_TAG.zip
+f772b6e713bc2cc0a713ffbf6d5fa1d0960384c808c811700f87e93bf3801bd5  results/certificate_d65.json
